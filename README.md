@@ -24,8 +24,7 @@ pip install ultralytics wandb opencv-python lap
 
 ##  运行步骤
 1. 模型训练
-```
-Bash
+```Bash
 python train.py
 ```
 
